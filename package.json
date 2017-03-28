@@ -1,0 +1,23 @@
+{
+  "name": "eugene.m",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zheniamotolov/chat-nodejs-socket.io.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zheniamotolov/chat-nodejs-socket.io/issues"
+  },
+  "homepage": "https://github.com/zheniamotolov/chat-nodejs-socket.io#readme",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
